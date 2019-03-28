@@ -1,0 +1,47 @@
+	For this school year 2018-2019, it was in my 2nd term, I have this subject called Troubleshooting of Computer System. 
+Our first instructor in this subject is Mr Ralph Vincent Galao. We had few reporting in his time due to he resigned in BISU. 
+Until we found out that Mr Max Angelo Perin is our new instructor. He was familiar on us because he was our senior during our lower years in college.
+In our first meeting, he introduced himself and discussed the topics involved in this subject. We do reporting and he examined us based on what we reported. 
+During his time, he is not only our instructor but our source of knowledge in other subjects. He gave us the information we need every time we approached on him.
+For that, we are thankful for having him. He is always there ready to listen our queries, who understand our struggles, advices as what to do and to survive in
+our course no matter what.
+	As what troubleshooting means it is a systematic approach to problem solving that is often used to find and correct issues with complex machines, electronics,
+computers and software systems. The first step in troubleshooting is gathering information on the issue, such as an undesired behaviour or a lack of expected
+functionality. Other important information includes related symptoms and special circumstances that may be required to reproduce the issue. Once the issue and 
+how to reproduce it are understood, the next step might be to eliminate unnecessary components in the system and verify that the issue persists, to rule out 
+incompatibility and third-party causes. Once the problem part is identified, it may be adjusted, repaired or replaced as needed. Evidence of effective
+troubleshooting is indicated when the issue is no longer reproducible and function is restored one. The success of troubleshooting often depends on the 
+thoroughness and experience of the trouble shooter.
+	In order to solve a problem, you must figure out which part of the system is malfunctioning. You will need to check each component of the computer, unless 
+it is obvious where the problem is coming from. The following are the basic steps in troubleshooting: close open programs and windows you are not currently
+using, make sure all of your cords are connected properly, try to repeat the sequence of commands you performed before the problem occurred, press F1 key to 
+access the Help Window, If there is an error message record the full message for future reference, restart your computer to see if it clears the problem, 
+to restart your computer open the start window and select the restart button instead of the log off button, if restarting the computer does not clear the problem,
+shutdown the computer and then start it back up again, if the issue is still not resolved, check the common technology issues below or call your system administrator.
+	Here are the solutions for common technology issues I learned in this subject. When the printer is not working, check if the printer is turned on, If not, 
+turn it on and try again. Check if the printer has paper, if not, put paper in the paper tray and try printing again. Check if the printer has a paper jam, if so,
+remove the paper, close the printer and try printing again. Ensure that all printer cables are properly connected. Turn off the printer and turn on again. 
+Check to see if a new printer driver is needed. Do this by going to the manufacture’s website to search for your printer model and checking for any updated driver.
+Seek assistance from your system administrator before installing any driver’s. Other issue is the computer is frozen or a program is not responding. First, push the 
+CTRL, ALT and delete keys at the same time. Then, start the Task Manager, highlight the program’s name, and hit the End Task Button. Perform a hard reboot by simply
+pressing the on/off button to turn off the computer manually. This action should only be done as a last resort if you have an unresponsive program or critical error. 
+This process could cause data loss or corruption. Once the computer is responding again, run a virus check. Other issue is when the keyboard is not working. Make sure
+the keyboard is connected to the computer. If not, connect it to the computer. If you are using a wireless keyboard, try changing the batteries. If one of the keys on 
+your keyboard gets stuck, turn the computer off and clean with a damp cloth. Use the mouse to restart the computer. When the mouse is not working properly check if it
+is securely plugged into the computer. If not, plug it in completely. Check to see if the chord has been damaged. If so, the mouse may need replacement. If you are 
+using a cordless mouse, try pushing the connection button on the underside of the mouse to re-establish a connection. Clean the mouse, especially on the bottom. When 
+troubleshooting power supply, check the motherboard light; this eliminates the chance of the problem being cause by misplaced front panel headers. Check also the input 
+voltage selector. If the light on the motherboard is not lit, make sure the PSU Is connected to the motherboard, this includes the 24 and the 4 pin cables. After that,
+check to see if the PSU has a source of power. Check to see if it is plugged into a cord. If the computer still does not power on, substitute the cord for a known good 
+one and try again. If it fails to boot again, consider replacing the PSU. When troubleshooting computer speaker, understand how your speaker system works: sound signals
+generated inside your computer are sent to the speaker port. Know what’s likely to fail: reason why there is no sound. Make sure that your laptop is plugged. Check your
+speaker’s or computer’s volume. Make sure that you don’t have headphones connected. Turn off the computer’s Bluetooth. Try testing your audio with headphones. Check your 
+speaker’s connections. Restart your computer. If none of the following software tweaks work for your speaker’s, you’ll need to take your speakers/computer into a technician
+repair department and ask for assistance. Troubleshooting and Maintenance of Motherboad: If the motherboard is not working properly, the problem is often caused by a 
+component that is no functioning properly. One should remove a component not required for basic operation and then start the computer to see if the problem still exists.
+Repeat this with different components until you find the one that is causing the error. If no components are found to be faulty, the computer may have a loss of power or
+a virus. Always check the documentation that is included with your system board to determine the proper settings. To prevent the computer from overheating, verify that 
+the fan is working properly. Many motherboards have built-in thermometers that will shut down the computer before it overheats. To clean your motherboard, you can use a 
+can of compressed air to blow away the dust. With the help of our reports, we got familiarized some computer system terms and it’s definition. Those are the knowledge I
+gained in this subject.  I can say that those theories I learned will serve as a good foundation to become a successful Computer Engineer someday.
+
