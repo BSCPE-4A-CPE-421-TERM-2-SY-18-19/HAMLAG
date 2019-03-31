@@ -1,0 +1,12 @@
+* PC PROBLEM/ERROR
+	-PC won'tboot to BIOS
+*POSSIBLE CAUSES
+	-Faulty RAM (or something worng related to Ram)
+	Try transfering to another slot or replace it
+	
+	-Faulty PCI Cards
+	>Misplaced front Panel connectors
+	>Missing power supply cables
+	>Check the 24-pin ADC cable & the 4-pin or 8-pin CPU connector
+	>The CPU is dead
+	>PCU (Power Supply Unit) not working properly

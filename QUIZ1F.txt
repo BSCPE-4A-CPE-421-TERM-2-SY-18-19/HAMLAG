@@ -1,0 +1,6 @@
+HOW DID THE RASPBERRY PI WORK?
+
+Since the class bought a Rasp Pi Model B+,the charger on this model was used in order for the Rasp Pi Model B TO WORK. 
+Since the owner of Model B doesn't have charger. Unfortunately, the Rasp Pi MOdel didn't work. After a series of troubleshooting, we found
+out that the charger that was used in MOdel B was not compatible for that model since the charger we are using is for Rasp pi Model B+.
+Therefore,I can conclude that use the appropriate charger for that particular model of Rasp Pi to avoid such error.
